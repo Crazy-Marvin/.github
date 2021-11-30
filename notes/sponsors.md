@@ -3,9 +3,9 @@ Company | Status
 Sentry | ❤️
 1Password | ❤️
 AppFollow | 🛑
-xyz | ❤️
-xyz | ❤️
-xyz | ❤️
+Usersnap | 🛑
+Oh Dear | ❤️
+Freddy Feedback | ❤️
 xyz | ❤️
 xyz | ❤️
 xyz | ❤️
