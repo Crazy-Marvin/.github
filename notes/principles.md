@@ -4,3 +4,4 @@
 - Application monitoring and error tracking with [Sentry](https://sentry.io/) or [Firebase Crashlytics](https://www.youtube.com/watch?v=k_mdNRZzd30) on some apps, but most of them run __without__ them to be privacy-friendly
 - Vulnerabilities are searched by [Snyk](https://snyk.io/) and [GitHub](https://github.com/features/security)
 - The preferred databases are [SQLite](https://www.sqlite.org/), [MySQL](https://mariadb.org/) and [Supabase](https://supabase.com/) although a few apps use [Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA)
+- Every repository has a .github folder with issue templates, workflows and special files
