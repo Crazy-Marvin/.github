@@ -7,6 +7,8 @@ Usersnap | 🛑
 Oh Dear | ❤️
 Freddy Feedback | ❤️
 Datadog | 🛑
+Rollbar | ...
+Bugsnag | ...
 xyz | ❤️
 xyz | ❤️
 xyz | ❤️
