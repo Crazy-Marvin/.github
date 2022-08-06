@@ -9,6 +9,7 @@ Freddy Feedback | ❤️
 Datadog | 🛑
 Rollbar | ...
 Bugsnag | 🙏
+Better Strack | ...
 xyz | ❤️
 xyz | ❤️
 xyz | ❤️
