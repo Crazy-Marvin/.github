@@ -8,7 +8,7 @@ Oh Dear | ❤️
 Freddy Feedback | ❤️
 Datadog | 🛑
 Rollbar | ...
-Bugsnag | ...
+Bugsnag | 🙏
 xyz | ❤️
 xyz | ❤️
 xyz | ❤️
@@ -16,3 +16,4 @@ xyz | ❤️
 ❤️: active support  
 💔: support stopped  
 🛑: support rejected  
+🙏: support available
