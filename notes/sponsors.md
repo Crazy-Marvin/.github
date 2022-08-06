@@ -2,14 +2,17 @@ Company | Status
 ------------ | -------------
 Sentry | ❤️
 1Password | ❤️
+Freddy Feedback | ❤️
+Weblate | ❤️
+F-Droid | ❤️
+Instatus | ❤️
 AppFollow | 🛑
 Usersnap | 🛑
 Oh Dear | ❤️
-Freddy Feedback | ❤️
 Datadog | 🛑
 Rollbar | ...
 Bugsnag | 🙏
-Better Strack | ...
+Better Strack | 🙏
 xyz | ❤️
 xyz | ❤️
 xyz | ❤️
