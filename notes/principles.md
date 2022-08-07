@@ -10,3 +10,5 @@
 - Hosting on GitHub Pages, Heroku, Google Cloud, Firebase Hosting or Linux VPS
 - Secret management on GitHub, .env or password manager
 - Preferred languages: [Elm](https://elm-lang.org/), [Flutter](https://flutter.dev/) & [Python](https://www.python.org/) (although I know that almost all programming languages are awesome)
+- Icons from [Feather](https://feathericons.com/), [Font Awesome Pro](https://fontawesome.com/) or [Material](https://fonts.google.com/icons)
+- Mockups are done with [Figma](https://www.figma.com/)
