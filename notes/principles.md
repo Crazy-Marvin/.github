@@ -5,3 +5,8 @@
 - Vulnerabilities are searched by [Snyk](https://snyk.io/) and [GitHub](https://github.com/features/security)
 - The preferred databases are [SQLite](https://www.sqlite.org/), [MySQL](https://mariadb.org/) and [Supabase](https://supabase.com/) although a few apps use [Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA)
 - Every repository has a .github folder with issue templates, workflows and special files
+- Uptime monitoring with updown.io, Oh Dear, PingPing, Healthchecks.io & Statping-ng
+- Status page with Freshstatus & Instatus
+- Hosting on GitHub Pages, Heroku, Google Cloud, Firebase Hosting or Linux VPS
+- Secret management on GitHub, .env or password manager
+- Preferred languages: [Elm](https://elm-lang.org/), [Flutter](https://flutter.dev/) & [Python](https://www.python.org/) (although I know that almost all programming languages are awesome)
