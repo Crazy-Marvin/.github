@@ -6,10 +6,14 @@ Freddy Feedback | ❤️
 Weblate | ❤️
 F-Droid | ❤️
 Instatus | ❤️
+Oh Dear | ❤️
 AppFollow | 🛑
 Usersnap | 🛑
-Oh Dear | ❤️
 Datadog | 🛑
+Fathom | 🛑
+Plausible | ...
+Simple Analytics | ...
+Matomo | ...
 Rollbar | ...
 Bugsnag | 🙏
 Better Strack | 🙏
