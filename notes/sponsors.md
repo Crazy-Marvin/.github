@@ -7,15 +7,16 @@ Weblate | ❤️
 F-Droid | ❤️
 Instatus | ❤️
 Oh Dear | ❤️
+Simple Analytics | ❤️
 AppFollow | 🛑
 Usersnap | 🛑
 Datadog | 🛑
 Fathom | 🛑
-Plausible | ...
-Simple Analytics | ...
+Plausible | 🈹
+Instabug | 🈹
 Matomo | ...
 Rollbar | ...
-Bugsnag | 🙏
+[Bugsnag](https://www.bugsnag.com/open-source) | 🙏
 Better Strack | 🙏
 xyz | ❤️
 xyz | ❤️
@@ -25,3 +26,4 @@ xyz | ❤️
 💔: support stopped  
 🛑: support rejected  
 🙏: support available
+🈹: discount offered
