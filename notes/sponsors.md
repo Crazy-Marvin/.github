@@ -20,6 +20,7 @@ Rollbar | ... |
 Better Strack | 🙏
 deque | ... |
 accessiBe | 🈹 | starting at 490$/month, 10% off offered
+Checkly | tbd |
 xyz | ❤️ |
 xyz | ❤️ |
 xyz | ❤️ |
