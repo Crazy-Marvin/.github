@@ -20,7 +20,8 @@ Rollbar | ... |
 Better Strack | 🙏
 deque | ... |
 accessiBe | 🈹 | starting at 490$/month, 10% off offered
-Checkly | tbd |
+[Checkly](https://www.checklyhq.com/) | tbd |
+[LaunchDarkly](https://launchdarkly.com/) | tbd |
 xyz | ❤️ |
 xyz | ❤️ |
 xyz | ❤️ |
