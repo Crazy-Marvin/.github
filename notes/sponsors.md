@@ -12,6 +12,7 @@ AppFollow | 🛑 |
 Usersnap | 🛑 |
 Datadog | 🛑 |
 Fathom | 🛑 |
+[iubenda](https://www.iubenda.com/) | 🛑 |
 Plausible | 🈹 |
 Instabug | 🈹 |
 Matomo | ... |
