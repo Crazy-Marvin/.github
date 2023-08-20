@@ -15,6 +15,7 @@ Fathom | 🛑 |
 [iubenda](https://www.iubenda.com/) | 🛑 |
 Plausible | 🈹 |
 Instabug | 🈹 |
+[GetTerms](https://getterms.io/) | 🈹 |
 Matomo | ... |
 Rollbar | ... |
 [Bugsnag](https://www.bugsnag.com/open-source) | 🙏 |
