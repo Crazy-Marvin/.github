@@ -23,8 +23,8 @@ Better Strack | 🙏
 deque | ... |
 accessiBe | 🈹 | starting at 490$/month, 10% off offered
 [Checkly](https://www.checklyhq.com/) | tbd |
-[LaunchDarkly](https://launchdarkly.com/) | tbd |
-xyz | ❤️ |
+[LaunchDarkly](https://launchdarkly.com/) | 🙏 |
+[Buffer](https://buffer.com/) | 🛑 |
 xyz | ❤️ |
 xyz | ❤️ |
 
