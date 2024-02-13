@@ -13,6 +13,7 @@ Usersnap | 🛑 |
 Datadog | 🛑 |
 Fathom | 🛑 |
 [iubenda](https://www.iubenda.com/) | 🛑 |
+[URIports](https://www.uriports.com/) | 🛑 |
 Plausible | 🈹 |
 Instabug | 🈹 |
 [GetTerms](https://getterms.io/) | 🈹 |
