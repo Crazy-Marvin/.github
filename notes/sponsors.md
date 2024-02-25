@@ -24,7 +24,7 @@ Better Strack | 🙏
 deque | ... |
 accessiBe | 🈹 | starting at 490$/month, 10% off offered
 [Checkly](https://www.checklyhq.com/) | 🈹 | 50% off offered
-[LaunchDarkly](https://launchdarkly.com/) | 🙏 |
+[LaunchDarkly](https://launchdarkly.com/) | 🛑 |
 [Buffer](https://buffer.com/) | 🛑 |
 xyz | ❤️ |
 xyz | ❤️ |
